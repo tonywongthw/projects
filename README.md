@@ -11,8 +11,8 @@ Project | Role | Description
 A list of codes Tony written.
 Platform | Role | Description
 --- | --- | ---
-[LeetCode](https://github.com/tonywongthw/Leet-Code) | author | :adult::computer: Codes written for solving coding puzzles related to algorithm and data structures on LeetCode.
-[Google Kick Start](https://github.com/tonywongthw/Google-Kickstart) | author | Codes written for solving coding puzzles in Google's Coding Competition.
+[LeetCode](https://github.com/tonywongthw/Leet-Code) | author | :computer: Codes written for solving coding puzzles related to algorithm and data structures on LeetCode.
+[Google Kick Start](https://github.com/tonywongthw/Google-Kickstart) | author | :trophy: Codes written for solving coding puzzles in Google's Coding Competition.
 
 ## Contact
 
