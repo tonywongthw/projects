@@ -8,7 +8,7 @@ Project | Role | Description
 [Spots!](https://github.com/tonywongthw/Spots-WebApp) | author | :airplane: A web application created within 48 hours in Canada's largest Hackathon (Hack the North)- giving users a personal experience to share and explore favourite spots!
 [Treasure Hunt](https://github.com/tonywongthw/Treasure-Hunt) | author | :moneybag: An interesting Treasure Hunt simulation built in Java!
 
-A list of codes Tony written.
+A list of codes Tony wrote.
 Platform | Role | Description
 --- | --- | ---
 [LeetCode](https://github.com/tonywongthw/Leet-Code) | author | :computer: Codes written for solving coding puzzles related to algorithm and data structures on LeetCode.
