@@ -14,6 +14,22 @@ Platform | Role | Description
 [LeetCode](https://github.com/tonywongthw/Leet-Code) | author | :computer: Codes written for solving coding puzzles related to algorithm and data structures on LeetCode.
 [Google Kick Start](https://github.com/tonywongthw/Google-Kickstart) | author | :trophy: Codes written for solving coding puzzles in Google's Coding Competition.
 
+A list of awards Tony recieved.
+
+Award | Organisation | Description
+--- | --- | ---
+[Best Cloud-Based BIM platform](https://bim-apac.constructiontechreview.com/vendor/varadise-limited-democratizing-bim-with-digital-twin-cid-486-mid-45.html) | Construction Tech Review | :trophy: Developed Hong Kong's first AI vision for checking cleanliness of vehicles on AWS, using Python and YOLO for object detection using Artificial Intelligence and Machine Learning. Awarded with top building information modelling service in Asia.
+[SCITECH Challenge](https://www.hkstp.org/press-room/hkstp-and-cic-host-scitech-challenge-2020-to-nurture-innovators-drive-technology-adoption-and-advance-industry-development/) | Hong Kong Science and Technology Park | :trophy: Award recognizing outstanding start-up company that has adopted, advanced, and achieved excellence in Digital Transformation.
+
+A list of student program Tony invited to participat.
+Company | Program | Description
+--- | --- | ---
+[Amazon Web Services](https://awsearlycareersnetwork.splashthat.com/) | Early Career Innovation Program | :computer: Selected by AWS to participate in the exclusive student program in Australia and New Zealand, to grow knowledge and experience in AWS Cloud.
+[Microsoft](https://www.microsoft.com/en-au/business/learn/cloud-training-events/cloud-skills-challenge-events/msa/?fbclid=IwAR2kLlj-24qVjMI_5Tvo-YdsGg13Xs8f5Cah--FWmC94jtvEwtAfj8txtocid=v4j5cvGGr0GRqy180BHbR6pcgTdm9WNEg1uK1w3lkOpUQTc1VElFSExCTFBOSEJGNzNENjFYMExCNS4u) | Microsoft Student Accelerator Program | :computer: Selected by Microsoft to participate in the exclusive student program in Australia and New Zealand, to join in a range of workshops, case cracks, and international competitions to learn latest trend in technology.
+
+A list of coding competition Tony participated.
+
+
 ## Contact
 
 - LinkedIn: (https://www.linkedin.com/in/tonywongthw/)
