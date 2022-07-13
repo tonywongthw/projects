@@ -21,7 +21,7 @@ Award | Organisation | Description
 [Best Cloud-Based BIM platform](https://bim-apac.constructiontechreview.com/vendor/varadise-limited-democratizing-bim-with-digital-twin-cid-486-mid-45.html) | Construction Tech Review | :trophy: Developed Hong Kong's first AI vision for checking cleanliness of vehicles on AWS, using Python and YOLO for object detection using Artificial Intelligence and Machine Learning. Publication winning award of top building information modelling service in Asia.
 [SCITECH Challenge](https://www.hkstp.org/press-room/hkstp-and-cic-host-scitech-challenge-2020-to-nurture-innovators-drive-technology-adoption-and-advance-industry-development/) | Hong Kong Science and Technology Park | :trophy: Award recognizing outstanding start-up company that has adopted, advanced, and achieved excellence in Digital Transformation.
 
-A list of student program Tony has been selected to participate.
+A list of student programs Tony has been selected to participate.
 Company | Program | Description
 --- | --- | ---
 [Amazon Web Services](https://awsearlycareersnetwork.splashthat.com/) | Early Career Innovation Program | :cloud: Selected by AWS to participate in the exclusive student program in Australia and New Zealand, to grow knowledge and experience in AWS Cloud.
