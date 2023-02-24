@@ -28,7 +28,7 @@ Company | Program | Description
 --- | --- | ---
 [Amazon Web Services](https://awsearlycareersnetwork.splashthat.com/) | Early Career Innovation Program | :cloud: Selected by AWS to participate in the exclusive student program in Australia
 [Microsoft](https://www.microsoft.com/en-au/business/learn/cloud-training-events/cloud-skills-challenge-events/msa/?fbclid=IwAR2kLlj-24qVjMI_5Tvo-YdsGg13Xs8f5Cah--FWmC94jtvEwtAfj8txtocid=v4j5cvGGr0GRqy180BHbR6pcgTdm9WNEg1uK1w3lkOpUQTc1VElFSExCTFBOSEJGNzNENjFYMExCNS4u) | Microsoft Student Accelerator Program | :books: Selected by Microsoft to participate in the exclusive global student program
-[Google](https://developers.google.com/community/gdg) | Goolge Developer Group | :cloud: Volunteered in the Google's flagship international developers group - Melbourne Chapter
+[Google](https://developers.google.com/community/gdg) | Goolge Developer Group | :family: Volunteered in the Google's flagship international developers group - Melbourne Chapter
 
 ## Contact
 
