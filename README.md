@@ -1,12 +1,14 @@
 # Tony's projects
 
-A list of projects Tony created.
+A comprehensive portfolio of projects showcasing Tony's expertise across AI tools (LangChain, RAG), full-stack web applications, mobile UI development, and modern backend technologies.
 
 Project | Role | Description
 --- | --- | ---
-[GoodRoom](https://github.com/tonywongthw/GoodRoom) | author | :hotel: An intelligent room servicing platform - Winner of Canada's largest Hackathon (Hack the North 2022)
-[Melbourne Liveability](https://github.com/tonywongthw/Melbourne-Liveability) | author | :world_map: A web application visualising statistical data on an interactive map.
-[Spots!](https://github.com/tonywongthw/Spots-WebApp) | author | :airplane: A web application giving users a personal experience to share and explore favourite spots!
+[PDF Rag-Reader](https://github.com/tonywongthw/Rag-Reader) | author | :robot: An intelligent PDF question-answering system using LangChain and OpenAI API — ask questions about your documents and get AI-powered answers with source citations.
+[GraphQL GoProject](https://github.com/tonywongthw/GraphQL-GoProject) | author | :zap: A modular GraphQL server built in Go — fast, lightweight, and developer-friendly.
+[GoodRoom](https://github.com/tonywongthw/GoodRoom) | author | :hotel: A mobile intelligent room servicing platform built in Voiceflow AI, Telegram API and Javascript - Winner of Canada's largest Hackathon (Hack the North 2022)
+[Melbourne Liveability](https://github.com/tonywongthw/Melbourne-Liveability) | author | :world_map: A full stack web application visualising statistical data on an interactive map, built with React, CouchDB and Ansible.
+[Spots!](https://github.com/tonywongthw/Spots-WebApp) | author | :airplane: A web application giving users a personal experience to share and explore favourite spots! Built with map API Leaflet.
 [Treasure Hunt](https://github.com/tonywongthw/Treasure-Hunt) | author | :moneybag: An interesting Treasure Hunt simulation built in Java!
 
 A list of codes Tony wrote.
